@@ -1,1 +1,2 @@
 # bio
+personal information only
